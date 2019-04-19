@@ -1,0 +1,7 @@
+cosmosDbKey.json
+*.lock
+
+**/.vs
+**/bin
+**/obj
+**/PublishProfiles
